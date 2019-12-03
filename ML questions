@@ -1,0 +1,12 @@
+In PCA why do we take the highest magnitude of eigen vector of a covariance matrix 
+a. to get the highest accuracy
+b. to get the highest dimention reduction
+c. to get the highest space between the features
+d. to get the highest precision
+
+In Decision Tree Classifier for finding the best split the current data should have
+a. highest gini impurity
+b. lowest gini impurity
+c. highest information gain
+d. lowest information gain
+
